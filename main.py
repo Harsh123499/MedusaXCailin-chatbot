@@ -73,7 +73,7 @@ MAIN = [
     ],
     [
         InlineKeyboardButton(text="sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", callback_data='source'),
-        InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇs ", url=f"https://t.me/Anime_booth_officiall"),
+        InlineKeyboardButton(text=" ᴜᴘᴅᴀᴛᴇs ", url=f"https://t.me/sigmabot_support"),
     ],
 ]
 PNG_BTN = [
@@ -85,7 +85,7 @@ PNG_BTN = [
      ],
      [
          InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", 
-                              url=f"https://t.me/@sigma_byz",
+                              url=f"https://t.me/sigma_byz",
          ),
      ],
 ]
